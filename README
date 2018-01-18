@@ -1,0 +1,1 @@
+wt create --watch --secrets-file secrets --name joelobot joelobot.js
